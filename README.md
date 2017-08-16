@@ -1,7 +1,3 @@
-# simple-pong-game
-Simple Pong game writing in HTML 5 and JavaScript
-
-Just Testing:
 
 <!DOCTYPE html>
 
@@ -21,6 +17,11 @@ Just Testing:
     <title>Simple Pong Game</title>
 </head>
 <body>
+<pre># simple-pong-game
+Simple Pong game writing in HTML 5 and JavaScript
+
+Just Testing:
+</pre>
     <script>
         var WIDTH = 700, HEIGHT = 600, pi = Math.PI;
         var canvas, ctx, keyState;
