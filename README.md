@@ -1,19 +1,4 @@
 
-<head>
-    <style>
-        canvas {
-            position: absolute;
-            margin: auto;
-            top: 0;
-            bottom: 0;
-            right: 0;
-            left: 0;
-        }
-    </style>
-    <meta charset="utf-8" />
-    <title>Simple Pong Game</title>
-</head>
-<body>
 <pre># simple-pong-game
 Simple Pong game writing in HTML 5 and JavaScript
 
@@ -145,4 +130,3 @@ Just Testing:
 
         main();
     </script>
-</body>
